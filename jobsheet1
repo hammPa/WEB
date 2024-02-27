@@ -1,0 +1,60 @@
+<!-- 
+    Nama: M.ilham
+    NIM : 23343008
+    Prodi: Informatika(NK)
+    Tugas: Membuat web biodata diri 
+ -->
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Biodata Pribadi</title>
+</head>
+<body bgcolor="lightskyblue">
+
+    <h2>Biodata Pribadi</h2>
+    <hr color="black">
+    <p>
+    Nama : M. ilham<br>
+    Tempat, tanggal lahir : Batusangkar, 17 maret 2004<br>
+    NIM : 23343008<br>
+    Jurusan/Prodi : Elektronika/Informatika<br>
+    Tinggi badan : 160 cm<br>
+    Berat badan : 43 kg<br>
+    Email : m.ilhamcoc70@gmail.com<br>
+    </p>
+    <p>Hobi :</p>
+    <ul>
+        <li>Main Game</li>
+        <li>Baca Buku</li>
+        <li>Ngoding</li>
+    </ul>
+
+    <p>Bahasa Pemrograman favorit :</p>
+    <ol type="1">
+        <li>Javascript</li>
+        <li>C++</li>
+        <li>Go</li>
+    </ol>
+
+    <p>Harapan Kedepan</p>
+    <q>Saya berharap bisa menjadi Fullstack Web Developer atau Game Developer<br>karena sudah terlanjur belajar javascript dan c++ sejak sma</q>
+    <address>Alamat : Jorong dusun tuo, kecamatan lima kaum</address>
+
+    <p>Riwayat pendidikan :</p>
+    <ol type="1">
+        <li><acronym title="SDN 27 Dusun Tuo">SDN 27 Dusun Tuo</acronym></li>
+        <li><acronym title="SMPN 3 Batusangkar">SMP 3 Batusangkar</acronym></li>
+        <li><acronym title="SMAN 1 Batusangkar">SMA 1 Batusangkar</acronym></li>
+        <li><acronym title="Universitas Negeri Padang">UNP</acronym></li>
+    </ol>
+
+    <p>Film Favorit :</p>
+    <ol type="1">
+        <li>One Piece</li>
+        <li>Attack On Titan</li>
+        <li>Hyouka</li>
+        <li>Interstellar</li>
+    </ol>
+
+</body>
+</html>
